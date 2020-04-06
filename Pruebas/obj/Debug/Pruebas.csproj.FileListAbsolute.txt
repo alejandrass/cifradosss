@@ -1,0 +1,6 @@
+C:\Users\roche\Desktop\Alejandra\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\roche\Desktop\Alejandra\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\roche\Desktop\Alejandra\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\roche\Desktop\Alejandra\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\roche\Desktop\Alejandra\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\roche\Desktop\Alejandra\Pruebas\obj\Debug\Pruebas.pdb

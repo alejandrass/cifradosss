@@ -1,0 +1,9 @@
+{
+	"CesarKey":7,
+	"ZigZag_Grade":5,
+	"m":3,
+	"Read":"d",
+	"Write":"r",
+	"Path":"C:\\Users\\roche\\Desktop\\Pepito.txt",
+	"Name":"Original"
+}
