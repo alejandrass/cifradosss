@@ -7,9 +7,13 @@ namespace cifradoss
 {
     public class DatosRecibidos
     {
-        public string path { get; set; }
-        public string fileName { get; set; }
-        public int  rails { get; set; }
-        public int rows { get; set; }
+        public string Path { get; set; }
+        public string Name { get; set; }
+        public int CesarKey { get; set; }
+        public int ZigZag_Grade { get; set; }
+        public int m { get; set; }
+        public string Read { get; set; }
+        public string Write { get; set; }
     }
 }
+

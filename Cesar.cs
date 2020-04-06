@@ -4,11 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Text;
 
-namespace cifradoss.Cifrados
+namespace cifradoss
 {
     public class Cesar
     {
-        public static char cipher(char ch, int key)
+        static char cipher(char ch, int key)
         {
             if (!char.IsLetter(ch))
             {
@@ -35,3 +35,4 @@ namespace cifradoss.Cifrados
         }
     }
 }
+
